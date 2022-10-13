@@ -15,10 +15,26 @@ body {
     -o-border-radius: 15px;
 }
 
+.cabezera {
+    background-color: beige;
+    border: 1px solid red;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-cabezeera {
+    color: aquamarine !important;
+    font-size: 16px;
+}
+
 .texto {
     color: rgb(92, 91, 89);
     font-size: 24px;
 }
+<<<<<<< HEAD
 
 .div2 {
     background-color: blue;
@@ -38,3 +54,5 @@ body {
     color: aliceblue;
     padding: 0 20px;
 }
+=======
+>>>>>>> cabezera
