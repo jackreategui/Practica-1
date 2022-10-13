@@ -5,3 +5,17 @@ body {
     text-align: center;
     padding: 0 300px;
 }
+
+.contenedor {
+    border: 2px solid cornflowerblue;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.texto {
+    color: rgb(92, 91, 89);
+    font-size: 24px;
+}
