@@ -1,13 +1,15 @@
 body {
-    color: greenyellow;
+
+    color: purple;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: antiquewhite;
     text-align: center;
-    padding: 0 300px;
+    padding: 15px 300px;
+    margin: 0;
 }
 
 .contenedor {
-    border: 2px solid cornflowerblue;
+    border: 1px solid grey;
     border-radius: 15px;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
@@ -16,23 +18,29 @@ body {
 }
 
 .cabezera {
+
+    background-color: grey;
     width: 100%;
     height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 15px 15px 0 0 ;
+    -webkit-border-radius: 15px 15px 0 0 ;
+    -moz-border-radius: 15px 15px 0 0 ;
+    -ms-border-radius: 15px 15px 0 0 ;
+    -o-border-radius: 15px 15px 0 0 ;
 }
 
 .text-cabezera {
-    color: black;
-    font-size: 46px;
+    color: white;
+    font-size: 32px;
 }
 
 .texto {
     color: rgb(92, 91, 89);
     font-size: 24px;
 }
-<<<<<<< HEAD
 
 .div2 {
     background-color: blue;
@@ -52,5 +60,3 @@ body {
     color: aliceblue;
     padding: 0 20px;
 }
-=======
->>>>>>> cabezera
