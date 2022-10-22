@@ -7,6 +7,12 @@ en 3 meses subire un video a toutube y toda la gente que tengo en tiktok ira dir
 
 eliminando el texto
 
+<<<<<<< HEAD
 Agregar un nuevo branch
 
 Agregar un nuevo branch-2
+=======
+Experimento 1
+
+Agregar un nuevo branch
+>>>>>>> 2179363 (experimento-1)

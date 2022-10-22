@@ -36,6 +36,10 @@ body {
     font-size: 20px;
 }
 
+.texto h2 {
+    color: black;
+}
+
 p img {
     width: 100%;
 }
